@@ -1,6 +1,7 @@
 # CELICA-GT-LOGO
 
 Este proyecto tiene archivos STL para crear un logo de **Toyota Celica GT**
+En la parte iniciar está el .stl del logo completo y una imagen .svg de la referencia 
 En la carpeta **celica** se encuentran 2 archivos con
 1. Las letras juntas y ordenadas
 2. La base negra usada como radio y margen de las letras.
